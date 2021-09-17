@@ -1,0 +1,9 @@
+{
+  "name": "vlog-node-api-with-vercel-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^23.1.2"
+  }
+}
